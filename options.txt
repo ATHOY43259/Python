@@ -1,0 +1,4 @@
+Options: (A) Paris, (B) London, (C) Rome, (D) Madrid
+Options: (A)Mars, (B) Venus, (C) Jupiter, (D) Saturn
+Options: (A) Atlantic Ocean, (B)Indian Ocean, (C)Pacific Ocean, (D)Arctic Ocean
+Options: (A) cumilla, (B) Barisal, (C) Khulna, (D) Dhaka
